@@ -1,4 +1,4 @@
-git checkout -b feature/devB-test-ciname: Python Code Quality Check (CI)
+name: Python Code Quality Check (CI)
 
 on:
   pull_request:
